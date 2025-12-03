@@ -1,0 +1,5 @@
+a, b, c = 12, 5, 20
+largest = a
+if b > largest: largest = b
+if c > largest: largest = c
+print("Largest number is:", largest)
